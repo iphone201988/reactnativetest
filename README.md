@@ -1,2 +1,0 @@
-# reactnativetest
-this is test
